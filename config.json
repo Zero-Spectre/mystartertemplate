@@ -1,0 +1,27 @@
+{
+    "name": "Ngoding Kit",
+    "type": "Starter Pack",
+    "description": "Starter Pack belajar ngoding",
+    "version": 1.0,
+    "credits": "Raihan Rivana Putra",
+    "year": "2020",
+    "app_data": {
+        "app_terminology": [
+            "Html5",
+            "CSS3",
+            "Javascript",
+            "Ajax",
+            "Sass",
+            "Scss",
+            "Less",
+            "KeyFrames"
+        ],
+        "lib": [
+            "Font-Awesome4"
+        ],
+        "framework": [],
+        "composer-require": false
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
